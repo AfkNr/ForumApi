@@ -1,7 +1,0 @@
-{
-"user": "postgres",
-"password": "supersecretpassword",
-"host": "forum-api.c2h6m1i5we3m.ap-southeast-1.rds.amazonaws.com",
-"port": 5432,
-"database": "afika_forum_api_test"
-}
